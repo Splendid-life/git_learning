@@ -9,7 +9,7 @@
   "author": "Don",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "cheerio": "^1.0.0-rc.2",
     "superagent": "^3.5.2"
   },
